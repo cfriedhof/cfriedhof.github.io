@@ -1,0 +1,33 @@
+# Hello World
+
+This is my home page! My name is Carter Friedhof and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+
+## Computer Science Projects
+
+My GitHub page is http://github.com/cfriedhof.
+
+### CPSC 120
+
+* Lab 7
+
+    Lab 7, part 2 was a favorite because I always knew how to play Blackjack in the 
+    real world, and it was pretty cool to see it kind of come to life in the world 
+    of code. It was a cool experience that was both fairly simple, as well as 
+    challenging for what we had learned at the time. I was a little confused at times,
+    but my partner explained things very well and I was able to learn from it.
+    
+* Lab 3
+
+    Lab 3, part 1 was a fun little activity at the start of the year. It introduced
+    me to the basics as well as a little more complicated aspects of coding. Overall,
+    I remember this code being especially fun and satisfying to see work as it was
+    one of our first labs of the year.
+    
+* Lab 4
+
+    Lab 4, part 2 was really cool because it delved deeper into the math side of
+    computer science and it was an actually useful piece of code to write. It had
+    lots of functions that could be applied to other labs and was really satifying
+    to use and think, "Wow, I really made this work." I also remember it being pretty
+    challenging when I first looked at it which made it feel even better when it 
+    finally worked.
